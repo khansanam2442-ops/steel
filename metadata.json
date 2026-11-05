@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard Steel & Infrastructure",
+  "description": "A premier modern corporate steel manufacturing website inspired by Jindal Steel, featuring high-strength structural steel, rail solutions, sustainability, and mega-infrastructure projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
